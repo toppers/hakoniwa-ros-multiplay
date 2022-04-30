@@ -9,6 +9,7 @@ namespace Hakoniwa.Plugin.Photon
 {
     public class PhotonLogin : MonoBehaviourPunCallbacks
     {
+        public string name = "hako_avator";
 
         // Use this for initialization
         void Start()
@@ -37,9 +38,9 @@ namespace Hakoniwa.Plugin.Photon
         {
 
             Debug.Log("OnJoinedRoom!!!");
-            Vector3 pos = new Vector3(0, 4, 0);
+            Vector3 pos = new Vector3(0, 1, 0);
             var instance = PhotonNetwork.Instantiate("HakoAvator", pos, Quaternion.identity);
-            instance.name = "hako_avator";
+            instance.name = this.name;
 
         }
     }
