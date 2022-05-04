@@ -1,6 +1,6 @@
 [submodule "multiplay-local/main"]
 	path = multiplay-local/main
-	url = git@github.com:toppers/hakoniwa-ros-simulator.git
+	url = https://github.com/toppers/hakoniwa-ros2sim.git
 [submodule "multiplay-photon/photon"]
 	path = multiplay-photon/photon
-	url = git@github.com:toppers/hakoniwa-ros-simulator.git
+	url = https://github.com/toppers/hakoniwa-ros2sim.git
