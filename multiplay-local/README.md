@@ -4,7 +4,7 @@
 
 ## 準備
 
-本環境は，[箱庭 ROS シミュレータ](https://github.com/toppers/hakoniwa-ros2sim) をセットアップすることで利用できるようになります．
+本環境は，本リポジトリの `multiplay-local/main` ディレクトリに移動して，[箱庭 ROS シミュレータ](https://github.com/toppers/hakoniwa-ros2sim) と同じセットアップを実施することで利用できるようになります．
 
 ### 複数ロボットの連携制御シミュレータの利用方法
 
