@@ -140,6 +140,13 @@ VR空間に入ったら，先ほどセットアップしたUnityエディタ上�
 https://user-images.githubusercontent.com/164193/168404168-ff803c1f-d774-4af9-bb9d-8712e31ec784.mp4
 
 
+うまくいくと，箱庭 VR 空間にダイブします．Oculus Quest2 備え付けのTouchコントローラを使って，方向転換および移動できます．
+
+* 方向転換
+  * 右Touchコントローラの「アナログスティック」を左右にふる
+* 移動
+  * 左Touchコントローラの「アナログスティック」を移動したい方向に向ける
+
 ## Contributing
 
 本リポジトリで公開している「箱庭 ROS シミュレータ」について，ご意見や改善の提案などをぜひ [こちらのGitHub Discussions](https://github.com/toppers/hakoniwa/discussions/categories/idea-request) でお知らせください．改修提案の [Pull Requests](https://github.com/toppers/hakoniwa-ros2sim/pulls) も歓迎いたします．
