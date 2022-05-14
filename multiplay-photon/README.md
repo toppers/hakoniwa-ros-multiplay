@@ -4,14 +4,8 @@
 
 ## 準備
 
-本環境は，[箱庭 ROS シミュレータ](https://github.com/toppers/hakoniwa-ros2sim) をセットアップすることで利用できるようになります．
+本環境は，本リポジトリの `multiplay-photon/photon` ディレクトリに移動して，[箱庭 ROS シミュレータ](https://github.com/toppers/hakoniwa-ros2sim) と同じセットアップを実施することで利用できるようになります．
 
-ただし，hakoniwa-ros2sim のブランチは，photon にしてください．
-
-```
-$ cd hakoniwa-ros2sim
-$ git checkout photon
-```
 
 ### Photonライブラリによる複数ロボットの連携制御シミュレータの利用方法
 
